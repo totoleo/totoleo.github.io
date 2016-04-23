@@ -6,17 +6,17 @@ kramdown:
   input: GFM
 
 # 作者信息
-author: 
-  name: 闫肃
-  email: suyan0830@gmail.com
-  link: http://yansu.org
-  weibo: http://weibo.com/yansu0711
-  github: http://github.com/suyan
+author:
+  name: 翟晓磊
+  email: totoleo@163.com
+  link: http://totoleo.github.io
+  weibo: http://weibo.com/2337138985
+  github: http://github.com/totoleo
 
 # 站点信息
-title: 闫肃的博客 
-description: 闫肃的博客
-url: http://yansu.org
+title: 蓝
+description: 对未知的渴望成就了我
+url: http://totoleo.github.io
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
@@ -30,4 +30,4 @@ ga:
 
 # disqus 设置
 disqus:
-  shortname: suyan-zh
+  shortname: totoleo
