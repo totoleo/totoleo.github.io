@@ -7,7 +7,7 @@ kramdown:
 
 # 作者信息
 author:
-  name: 翟晓磊
+  name: LeO
   email: totoleo@163.com
   link: http://totoleo.github.io
   weibo: http://weibo.com/2337138985
@@ -15,18 +15,18 @@ author:
 
 # 站点信息
 title: 蓝
-description: 对未知的渴望成就了我
+description: 对未知的渴望
 url: http://totoleo.github.io
 rss_url: /pages/atom.xml
 
 # avatar头像及Favicon
-avatar: http://7u2ho6.com1.z0.glb.clouddn.com/site-avatar.png
-favicon: http://7u2ho6.com1.z0.glb.clouddn.com/site-favicon.ico
+avatar: http://blog-blue.b0.upaiyun.com/20100310105627741.jpg
+favicon: http://blog-blue.b0.upaiyun.com/20100310105627741.jpg!mini
 
 # google analytics 设置
 ga:
-  id: UA-54767140-1
-  url: yansu.org
+  id: UA-76790876-1
+  url: totoleo.github.io
 
 # disqus 设置
 disqus:
